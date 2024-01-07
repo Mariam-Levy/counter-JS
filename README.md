@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Inspiration ✒️
-bradtraversy - 50projects50days : https://github.com/bradtraversy/50projects50days
+freeCodeCamp.org - 15 JavaScript Projects : https://github.com/john-smilga/javascript-basic-projects/tree/master
 
 ## Preview 
 https://mariam-levy.github.io/counter-JS/
